@@ -1,1 +1,3 @@
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+title: [Welcome to our website!]
+description: [If you visit websites containing links and/or images, you probably know how frustrating it is to discover broken links that lead to 404 error pages. The easiest solution to this problem is to using a broken link detector app. With our open-source broken link detector app, you can quickly identify any broken links and/or images on a website by inputting the website’s link into the app.]
